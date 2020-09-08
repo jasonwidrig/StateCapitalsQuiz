@@ -7,3 +7,7 @@ The lambda for this skill uses a custom role which consists of 2 AWS managed pol
 The JS files come from the actual lambda
 
 The other project files came from an ask clone of the skill on Sep 8 2020
+
+The CORS config is for the S3 bucket set up for media files. 
+
+Setting the default encryption for S3 to AES-256 seems to work best for the persistence adapter.
