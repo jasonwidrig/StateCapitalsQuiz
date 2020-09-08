@@ -1,0 +1,31 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.",
+      "was_cloned": false,
+      "merge": {},
+      "resources": {
+        "manifest": {
+          "eTag": ""
+        },
+        "interactionModel": {
+          "en-US": {
+            "eTag": ""
+          },
+          "en-CA": {
+            "eTag": ""
+          },
+          "en-IN": {
+            "eTag": ""
+          },
+          "en-AU": {
+            "eTag": ""
+          },
+          "en-GB": {
+            "eTag": ""
+          }
+        }
+      }
+    }
+  }
+}
